@@ -68,7 +68,7 @@
     width: 50%;
 }
 .home_details .home-p{
-    font-size: 10px;
+    font-size: 10px !important;
     color: white;
     text-align: start;
 }
