@@ -454,6 +454,14 @@
     }
 
     /* home section image */
+    .home_details {
+        padding: 5px;
+        margin: 10px;
+        position: relative;
+        left: 80px;
+        height: 50vh;
+        width: 50%;
+        top: 25px;}
     .home_img {
         /* right: 0; */
         width: 200px;
