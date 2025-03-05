@@ -361,7 +361,7 @@
     text-align: center;
     font-size: 10px;
  }
- .home-project .project .pro1 h3,p{
+ .home-project .project .pro1 h3,.p-pro{
     text-align: center;
     color: black;
     font-size: 10px;
